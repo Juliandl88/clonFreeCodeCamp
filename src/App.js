@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="contenedor-principal">
-          <h1>Lo que dicen nuestros alumnos sobre freeCodeCamp:</h1>
+          <h1>Testimonios de nuestros alumnos sobre freeCodeCamp:</h1>
           <Testimonio
             nombre="Shawn Wang"
             pais="Singapur"
